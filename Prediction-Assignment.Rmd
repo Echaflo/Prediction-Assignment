@@ -168,6 +168,7 @@ print(as.data.frame(predict_Test))
 #### As we can see from the three methods used, each one is improving in its precision but it also has to take into account the time it takes in each of its internal calculations. therefore we stick with rainforest for 99% accuracy. 
 
 
+
 #####  --------
 
 
